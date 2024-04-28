@@ -8,7 +8,7 @@ Though primarily focused on data analytics, I maintain a passion for website dev
 
 Feel free to reach out to discuss any community initiatives or collaborative projects you have in mind.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rorukzz)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rorukzz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Best regards,
 Rory
