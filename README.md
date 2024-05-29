@@ -1,12 +1,8 @@
-Greetings,
+Lot's of random project uploaded here.
 
-My name is Rory, originally hailing from Nelson, New Zealand, and currently, I call Melbourne, Australia, my home.
+Experinced Python developer and SQL analyst. Currently expanding my skills in a Junior Data Analyst for Australia's largest solar energy company,
 
-As a dedicated Data Analyst, I invest significant time enhancing my proficiency in Python and leveraging Pandas for comprehensive Data Analysis.
-
-Though primarily focused on data analytics, I maintain a passion for website development, occasionally dedicating time to this endeavor. I'm keen to contribute to various projects and offer my expertise wherever it may be valuable.
-
-Feel free to reach out to discuss any community initiatives or collaborative projects you have in mind.
+if you want to reach out to me, email me at - freecodecamp580@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rorukzz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
